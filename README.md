@@ -31,11 +31,11 @@ Analytics: Exploratory Data Analysis, KPI development, Business insight generati
 
 
 ## Results & Business Recommendations
-The analysis shows that user engagement, retention and clinical improvements are closely connected. Improving engagement strategies and identifying high risk users early can help increase program adherence and maximize patient outcomes.
+The analysis shows that user engagement, retention and clinical improvements are closely connected. Improving engagement strategies and identifying high churn risk users early can help increase program adherence and maximize patient outcomes.
 
 ### Which user segments have the highest churn risk?
 
-The analysis identified that churn is concentrated among specific user segments, particularly users with lower engagement levels and certain demographic groups.
+Churn is concentrated among specific user segments, particularly users with lower engagement levels and certain demographic groups.
 
 *Recommendations*
 
