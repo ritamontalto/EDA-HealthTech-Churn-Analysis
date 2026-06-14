@@ -1,7 +1,7 @@
 # Exploratory Data Analysis for HealthTech Startup 
 
 ## Executive Summary
-Diabetes management platforms rely on patient engagement and long term adherence to deliver successful outcomes. This project analyzes user retention, engagement behavior and clinical improvements within a digital diabetes therapeutic program. Leveraging AI, I created 2 synthetic datasets holding customers and users data, belonging to a hypothetical HealthTech Startup. Using SQL and Power BI, I cleaned and transformed this data, then analyzed churn drivers, evaluated treatment effectiveness and built an interactive dashboard to identify factors associated with user retention and improved health outcomes.
+Diabetes management platforms rely on patient engagement and long term adherence to deliver successful outcomes. This project analyzes user retention, engagement behavior and clinical improvements within a digital diabetes therapeutic program. Leveraging AI, I created 2 synthetic datasets holding customers and users data, belonging to a hypothetical HealthTech Startup. Using SQL and Power BI, I cleaned and transformed this data, analyzed churn drivers, evaluated treatment effectiveness and built an interactive dashboard to identify factors associated with user retention and improved health outcomes.
 
 
 ## Business Problem
