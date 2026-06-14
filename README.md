@@ -6,9 +6,13 @@ Diabetes management platforms rely on patient engagement and long term adherence
 
 ### Business Problem
 Patient retention is critical for digital health platforms because continued engagement is necessary to achieve long term treatment outcomes. I assumed that the product team would like to understand:
+
 •	Which user segments have the highest churn risk? 
+
 •	Does engagement influence retention? 
+
 •	Are users showing measurable improvements during the program? 
+
 •	Which operational factors are associated with better retention?
 
 
