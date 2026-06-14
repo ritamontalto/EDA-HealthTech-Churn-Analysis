@@ -1,5 +1,3 @@
-# EDA-HealthTech-Churn-Analysis
-
 # Exploratory Data Analysis for HealthTech Startup 
 
 ### Executive Summary
