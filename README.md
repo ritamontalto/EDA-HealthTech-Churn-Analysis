@@ -5,7 +5,7 @@ Diabetes management platforms rely on patient engagement and long term adherence
 
 
 ## Business Problem
-A HealthTech Startup wants to reduce patient churn and improve engagement for its digital diabetes therapeutic program. Patient retention is critical for digital health platforms because continued engagement is necessary to achieve long term treatment outcomes. I assumed that the product team would like to understand:
+A HealthTech Startup wants to reduce patient churn and improve engagement for its digital diabetes therapeutic program. Patient retention is critical for digital health platforms because continued engagement is necessary to achieve long term treatment outcomes. I assumed that the product management team would like to understand:
 
 -	Which user segments have the highest churn risk? 
 
