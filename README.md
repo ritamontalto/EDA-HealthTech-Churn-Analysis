@@ -23,13 +23,18 @@ A HealthTech Startup wants to reduce patient churn and improve engagement for it
 
 
 ## Skills & Tools
-SQL: PostgreSQL, CTEs, Window functions, Joins, Case statements, Aggregations, Data cleaning
+Analytics: Exploratory Data Analysis, KPI development, business insight generation
 
-Power BI: Data modeling, DAX measures, Interactive dashboards, Data visualization
+SQL: PostgreSQL, CTEs, Window functions, Joins, Case statements, Aggregations, data cleaning
 
-Analytics: Exploratory Data Analysis, KPI development, Business insight generation
+Power BI: data modeling, DAX measures, interactive dashboards, data visualization
 
-OpenAI: Generation of synthetic datasets, Brainstorming support
+ChatGPT: generation of synthetic datasets, brainstorming support
+
+
+## Datasets
+The datasets used in this project are synthetically generated and do not contain real patient information. They were created with the assistance of OpenAI's ChatGPT specifically for portfolio purposes to mimic realistic healthcare and customer data, including intentional inconsistencies, missing values, duplicate records and formatting issues to support a complete data cleaning and exploratory analysis workflow. 
+I used AI to generate fictional data for analysis. All SQL queries, data cleaning decisions, business logics, dashboard design, DAX measures, analysis and final interpretations were independently designed, reviewed, adapted and implemented by myself.
 
 
 ## Results & Business Recommendations
@@ -75,11 +80,6 @@ Retention performance varied across enrollment channels and treatment plans, sug
 -	Evaluate acquisition channels based on retention quality, not only user volume. 
 
 -	Optimize onboarding and treatment experiences for higher churn groups.
-
-
-## Datasets
-The datasets used in this project are synthetically generated and do not contain real patient information. They were created with the assistance of OpenAI's ChatGPT specifically for portfolio purposes to mimic realistic healthcare and customer data, including intentional inconsistencies, missing values, duplicate records and formatting issues to support a complete data cleaning and exploratory analysis workflow. 
-AI was used to generate fictional data for analysis. All SQL queries, data cleaning decisions, business logics, dashboard design, DAX measures, analysis and final interpretations were independently designed, reviewed, adapted and implemented by the author.
 
 
 ## Project Files
