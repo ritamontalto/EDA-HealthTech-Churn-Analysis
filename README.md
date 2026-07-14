@@ -22,12 +22,14 @@ A HealthTech Startup wants to reduce patient churn and improve engagement for it
 3. Dashboard development: Power BI dashboards that display retention overview, treatment effectiveness and business operations insights through charts, cards and interactive filtering.
 
 
-## Skills
+## Skills & Tools
 SQL: PostgreSQL, CTEs, Window functions, Joins, Case statements, Aggregations, Data cleaning
 
-Power BI: Data modeling, DAX measures, Calculated columns, Interactive dashboards, Data visualization
+Power BI: Data modeling, DAX measures, Interactive dashboards, Data visualization
 
 Analytics: Exploratory Data Analysis, KPI development, Business insight generation
+
+OpenAI: Generation of synthetic datasets, Brainstorming support
 
 
 ## Results & Business Recommendations
@@ -73,6 +75,11 @@ Retention performance varied across enrollment channels and treatment plans, sug
 -	Evaluate acquisition channels based on retention quality, not only user volume. 
 
 -	Optimize onboarding and treatment experiences for higher churn groups.
+
+
+## Datasets
+The datasets used in this project are synthetically generated and do not contain real patient information. They were created with the assistance of OpenAI's ChatGPT specifically for portfolio purposes to mimic realistic healthcare and customer data, including intentional inconsistencies, missing values, duplicate records and formatting issues to support a complete data cleaning and exploratory analysis workflow. 
+AI was used to generate fictional data for analysis. All SQL queries, data cleaning decisions, business logics, dashboard design, DAX measures, analysis and final interpretations were independently designed, reviewed, adapted and implemented by the author.
 
 
 ## Project Files
