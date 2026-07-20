@@ -196,5 +196,10 @@ ORDER BY clean_user_churn DESC;
 
 
 
-- I decided to remove all null or unknown values from every query because if not, I might include categories that aren't useful or don't represent the actual status, especially in some specific queries. Needless to say, null values can also be an important insight, as a matter of fact I will include them on data visualization.
+- I decided to remove all null or unknown values from every query because if not, I might include categories that aren't useful or don't represent the actual status, especially in some specific queries. 
+
+- Needless to say, null values can also be an important insight, as a matter of fact I will include them on data visualization.
+
+
+
 
