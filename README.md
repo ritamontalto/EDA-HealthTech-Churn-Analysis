@@ -85,7 +85,7 @@ Retention performance varied across enrollment channels and treatment plans, sug
 ## Project Files
 - Data: Original synthetic datasets and cleaned tables ready for analysis
 
-- SQL scripts: Data cleaning and exploratory analysis queries
+- SQL notebooks: Data cleaning and exploratory analysis notebooks with queries and notes
 
 - Power BI: Interactive dashboards analyzing retention, outcomes and operations
 
