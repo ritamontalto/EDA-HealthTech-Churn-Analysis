@@ -399,3 +399,4 @@ COUNT(*)
 FROM clean_customers;
 
 --- output is correct. Now I'm ready to analyze data 
+
