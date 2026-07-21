@@ -34,7 +34,11 @@ Business Insights & Recommendations
 Each stage of the workflow is summarized below.
 
 **Data Cleaning & Validation**  
-Raw data was extracted, cleaned, standardized and transformed into datasets ready for analysis. This included handling duplicates, missing values, inconsistent formats and data quality issues.
+
+Raw data was extracted, cleaned, standardized and transformed into datasets ready for analysis. This included:
+- Handling duplicates and missing values
+- Standardizing inconsistent formats 
+- Validating data quality issues
 
 **Exploratory Data Analysis**  
 - Investigated key business questions related to user retention, engagement, treatment effectiveness
