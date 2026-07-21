@@ -51,6 +51,14 @@ Raw data was extracted, cleaned, standardized and transformed into datasets read
 
 ## Skills Demonstrated
 
+**Analytics**
+- Exploratory Data Analysis (EDA)
+- Business question definition
+- KPI development
+- Insight generation
+- Data Driven recommendations
+
+
 **SQL (PostgreSQL)**
 - Data cleaning 
 - Data validation
@@ -68,13 +76,6 @@ Raw data was extracted, cleaned, standardized and transformed into datasets read
 - KPI development
 - Data visualization
 
-
-**Analytics**
-- Exploratory Data Analysis (EDA)
-- Business question definition
-- KPI development
-- Insight generation
-- Data Driven recommendations
 
 **AI Assisted Development**
 - Synthetic dataset generation (ChatGPT)
