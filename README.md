@@ -1,7 +1,8 @@
 # Exploratory Data Analysis for HealthTech Startup 
 
 ## Executive Summary
-Diabetes management platforms rely on patient engagement and long term adherence to deliver successful outcomes. This project analyzes user retention, engagement behavior and clinical improvements within a digital diabetes therapeutic program. Leveraging AI, I created 2 synthetic datasets holding customers and users data, belonging to a hypothetical HealthTech Startup. Using SQL and Power BI, I cleaned and transformed this data, analyzed churn causes, evaluated treatment effectiveness and built an interactive dashboard to identify factors associated with user retention and improved health outcomes.
+Diabetes management platforms rely on patient engagement and long term adherence to deliver successful health outcomes. This project analyzes user retention, engagement behavior and clinical improvements within a hypothetical digital diabetes therapeutic program. To simulate a realistic business environment, 2 synthetic datasets were created representing customer and user information for a fictional HealthTech startup. 
+Using SQL and Power BI, I cleaned and transformed this data, analyzed churn causes, evaluated treatment effectiveness and built an interactive dashboard to identify patterns related to user retention, engagement and improved health outcomes.
 
 
 ## Business Problem
@@ -77,7 +78,7 @@ Raw data was extracted, cleaned, standardized and transformed into datasets read
 
 
 ## Datasets
-The datasets used in this project are synthetically generated and contain no real patient information or personally identifiable data. They were created with AI assistance for portfolio purposes to simulate a realistic digital healthcare environment, including common data quality challenges such as inconsistent formats, missing values, duplicate records, and unstandardized fields. AI was used exclusively to generate fictional data for analysis. All data cleaning processes, SQL queries, business logic, exploratory analysis, DAX measures, dashboard design and final insights were independently developed, reviewed, and implemented by me.
+The datasets used in this project are synthetically generated and contain no real patient information or personally identifiable data. They were created with AI assistance for portfolio purposes, designed to simulate a realistic digital healthcare environment and to replicate realistic healthcare data challenges including common data quality challenges such as inconsistent formats, missing values, duplicate records and quality issues. AI was used exclusively to generate fictional data for analysis. All data cleaning processes, SQL queries, business logic, exploratory analysis, DAX measures, dashboard design and final insights were independently developed, reviewed and implemented by me.
 
 
 ## Results & Business Recommendations
