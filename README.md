@@ -17,24 +17,67 @@ A HealthTech Startup wants to reduce patient churn and improve engagement for it
 
 
 ## Methodology
-1. Data cleaning and preparation: SQL queries that extract, clean and transform data from the database.
-2. Exploratory Data Analysis: SQL queries that select specific data to solve business problems and questions.
-3. Dashboard development: Power BI dashboards that display retention overview, treatment effectiveness and business operations insights through charts, cards and interactive filtering.
+
+```
+Raw Data
+   ↓
+Data Cleaning & Validation
+   ↓
+Exploratory Data Analysis
+   ↓
+Interactive Power BI Dashboard
+   ↓
+Business Insights & Recommendations
+```
+
+Each stage of the workflow is summarized below.
+
+**Data Cleaning & Validation**  
+Raw data was extracted, cleaned, standardized and transformed into datasets ready for analysis. This included handling duplicates, missing values, inconsistent formats and data quality issues.
+
+**Exploratory Data Analysis**  
+- Investigated key business questions related to user retention, engagement, treatment effectiveness
+- Analyzed operational performance through aggregations, segmentation and KPI analysis
+
+**Interactive Dashboard Development**  
+- Built interactive dashboards including KPI cards, visual comparisons and interactive filtering to support data driven decision-making
+- Designed 3 reporting pages covering main analytical areas: retention overview, treatment effectiveness and business operations 
 
 
-## Skills & Tools
-Analytics: Exploratory Data Analysis, KPI development, business insight generation
+## Skills Demonstrated
 
-SQL: PostgreSQL, CTEs, Window functions, Joins, Case statements, Aggregations, data cleaning
+**SQL (PostgreSQL)**
+- Data cleaning 
+- Data validation
+- CTEs
+- Window Functions
+- Joins
+- CASE Statements
+- Aggregations
+- Exploratory Data Analysis
 
-Power BI: data modeling, DAX measures, interactive dashboards, data visualization
+**Power BI**
+- Data modeling
+- DAX measures
+- Interactive Dashboards
+- KPI development
+- Data visualization
 
-ChatGPT: generation of synthetic datasets, brainstorming support
+
+**Analytics**
+- Exploratory Data Analysis (EDA)
+- Business question definition
+- KPI development
+- Insight generation
+- Data Driven recommendations
+
+**AI Assisted Development**
+- Synthetic dataset generation (ChatGPT)
+- Analytical brainstorming support
 
 
 ## Datasets
-The datasets used in this project are synthetically generated and do not contain real patient information. They were created with the assistance of OpenAI's ChatGPT specifically for portfolio purposes to mimic realistic healthcare and customer data, including intentional inconsistencies, missing values, duplicate records and formatting issues to support a complete data cleaning and exploratory analysis workflow. 
-I used AI to generate fictional data for analysis. All SQL queries, data cleaning decisions, business logics, dashboard design, DAX measures, analysis and final interpretations were independently designed, reviewed, adapted and implemented by myself.
+The datasets used in this project are synthetically generated and contain no real patient information or personally identifiable data. They were created with AI assistance for portfolio purposes to simulate a realistic digital healthcare environment, including common data quality challenges such as inconsistent formats, missing values, duplicate records, and unstandardized fields. AI was used exclusively to generate fictional data for analysis. All data cleaning processes, SQL queries, business logic, exploratory analysis, DAX measures, dashboard design and final insights were independently developed, reviewed, and implemented by me.
 
 
 ## Results & Business Recommendations
